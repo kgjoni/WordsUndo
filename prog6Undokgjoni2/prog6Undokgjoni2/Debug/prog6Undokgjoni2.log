@@ -1,0 +1,24 @@
+﻿  prog6Undokgjoni2.cpp
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(93): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(110): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(113): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(116): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(81): warning C4101: 'dictionarySize': unreferenced local variable
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(334): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(372): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(401): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(454): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kris\documents\visual studio 2015\projects\prog6undokgjoni2\prog6undokgjoni2\prog6undokgjoni2.cpp(489): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  prog6Undokgjoni2.vcxproj -> C:\Users\Kris\Documents\Visual Studio 2015\Projects\prog6Undokgjoni2\Debug\prog6Undokgjoni2.exe
+  prog6Undokgjoni2.vcxproj -> C:\Users\Kris\Documents\Visual Studio 2015\Projects\prog6Undokgjoni2\Debug\prog6Undokgjoni2.pdb (Full PDB)
